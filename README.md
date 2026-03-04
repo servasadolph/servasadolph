@@ -1,63 +1,73 @@
-# Servas Adolph
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,100:1b4f72&height=220&section=header&text=Servas%20Adolph&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Medical%20AI%20Researcher%20%7C%20PhD%20Candidate&descAlignY=58&descSize=18&descColor=a8d8f0" />
 
-**PhD Student — Department of Future Convergence Technology**
-Soonchunhyang University, South Korea
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=4FC3F7&center=true&vCenter=true&width=680&lines=Multimodal+Machine+Learning+for+Healthcare;Domain+Adaptation+%7C+Emotion+Recognition+%7C+Clinical+AI;Building+AI+for+Low-Resource+Healthcare+Settings" alt="Typing SVG" />
+</div>
 
-<p>
-  <a href="https://servasadolph.github.io"><img src="https://img.shields.io/badge/Portfolio-servasadolph.github.io-222222?style=flat&logo=githubpages&logoColor=white"></a>
-  <a href="https://linkedin.com/in/servas-adolph-tarimo-66494066"><img src="https://img.shields.io/badge/LinkedIn-servas--adolph-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
-  <a href="https://scholar.google.com/citations?user=LCd83TUAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat&logo=googlescholar&logoColor=white"></a>
-  <a href="https://orcid.org/0009-0008-8415-2787"><img src="https://img.shields.io/badge/ORCID-0009--0008--8415--2787-A6CE39?style=flat&logo=orcid&logoColor=white"></a>
-  <a href="mailto:servasadolph@gmail.com"><img src="https://img.shields.io/badge/Email-servasadolph%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"></a>
-</p>
+<br>
+
+<div align="center">
+  <a href="https://servasadolph.github.io"><img src="https://img.shields.io/badge/Portfolio-servasadolph.github.io-0d1b2a?style=flat-square&logo=githubpages&logoColor=white"></a>&nbsp;
+  <a href="https://linkedin.com/in/servas-adolph-tarimo-66494066"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>&nbsp;
+  <a href="https://scholar.google.com/citations?user=LCd83TUAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-Research-4285F4?style=flat-square&logo=googlescholar&logoColor=white"></a>&nbsp;
+  <a href="https://orcid.org/0009-0008-8415-2787"><img src="https://img.shields.io/badge/ORCID-0009--0008--8415--2787-A6CE39?style=flat-square&logo=orcid&logoColor=white"></a>&nbsp;
+  <a href="mailto:servasadolph@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
+</div>
+
+<br>
 
 ---
 
 ## About Me
 
-I am a Medical AI researcher working at the intersection of deep learning, multimodal sensing, and clinical AI systems. My work is driven by a conviction that the transformative potential of AI in healthcare must not be confined to well-resourced environments.
+I am a Medical AI researcher and PhD student in the Department of Future Convergence Technology at **Soonchunhyang University, South Korea**. My work sits at the intersection of deep learning, multimodal sensing, and clinical AI — with a focus on systems that are high-performing, interpretable, and deployable in real-world healthcare environments.
 
-I grew up in Tanzania and have seen firsthand the gaps in healthcare access that persist across low-resource settings. My research aims to produce AI systems that are not only high-performing, but practical, interpretable, and deployable where they are needed most.
+I grew up in Tanzania, where access to specialist healthcare remains limited. That experience shapes everything I build. My goal is to develop AI that meets healthcare where it is — not just where infrastructure is ideal.
 
 ---
 
-## Research Interests
+## Research Areas
 
-- **Domain Adaptation** for medical imaging and cross-domain healthcare data
-- **Multimodal Emotion Recognition** — fusing EEG, audio, and facial expressions for mental health analysis
-- **WBC Detection & Classification** — deep learning for automated hematology in resource-limited labs
-- **Medical Report Generation** — LLM-based systems for structured clinical documentation
-- **Retrieval-Augmented Generation (RAG)** for clinical decision support
+| Area | Focus |
+|---|---|
+| **Domain Adaptation** | Cross-domain generalization for medical imaging and healthcare data |
+| **Multimodal Emotion Recognition** | Fusing EEG, audio, and facial expressions for mental health analysis |
+| **WBC Detection & Classification** | Automated hematology using YOLO and Vision Transformers |
+| **Medical Report Generation** | Structured clinical documentation via fine-tuned LLMs |
+| **RAG for Clinical Decision Support** | Retrieval-augmented systems grounded in verified medical knowledge |
 
 ---
 
 ## Research Vision
 
-I believe the next generation of clinical AI should serve as an intelligent assistant — extending the capabilities of healthcare workers rather than replacing them. My focus is on building systems that operate effectively across modalities, generate clinically meaningful outputs, and remain reliable in settings with limited infrastructure.
-
-Long term, I aim to develop intelligent multimodal AI systems that support clinical workflows and improve healthcare accessibility in Tanzania and sub-Saharan Africa more broadly.
+> I believe the next generation of clinical AI should serve as an intelligent assistant — extending the capabilities of healthcare workers, not replacing them. My long-term mission is to build intelligent multimodal AI systems that improve clinical workflows and healthcare accessibility in low-resource settings, starting with Tanzania and sub-Saharan Africa.
 
 ---
 
 ## Selected Projects
 
 **Multimodal Emotion Recognition**
-A deep learning system that fuses EEG, audio, and facial expression signals to recognize emotional states. Aimed at early detection and continuous monitoring of mental health conditions.
+A deep learning system fusing EEG, audio, and facial expression signals for mental health monitoring and early detection of emotional disturbances.
 
 **WBC Detection & Classification**
-An automated pipeline for white blood cell detection, counting, and classification using YOLO and Vision Transformers. Designed to support blood analysis in resource-constrained clinical environments.
+An automated pipeline for white blood cell detection, counting, and classification using YOLO and Vision Transformers — designed for resource-constrained clinical labs.
 
 **Medical Report Generation**
-An LLM-based system for generating structured clinical reports and doctor-style patient summaries from diagnostic data.
+An LLM-based system producing structured clinical reports and doctor-style patient summaries from diagnostic inputs.
 
 **RAG for Clinical Decision Support**
-A retrieval-augmented generation system that grounds clinical AI responses in verified medical knowledge, targeting deployment in low-resource healthcare settings.
+A retrieval-augmented generation system grounding AI clinical responses in verified medical literature, targeting deployment in low-resource healthcare settings.
 
 ---
 
-## Tools & Technologies
+## Tech Stack
 
-Python · PyTorch · YOLO · FastAPI · LangGraph · React Native
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,react&theme=dark" />
+  <br><br>
+  <img src="https://img.shields.io/badge/YOLO-Object%20Detection-00b4d8?style=flat-square&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/LangGraph-AI%20Orchestration-0d1b2a?style=flat-square&logoColor=white" />
+</div>
 
 ---
 
@@ -66,3 +76,7 @@ Python · PyTorch · YOLO · FastAPI · LangGraph · React Native
 **PhD, Future Convergence Technology** — Soonchunhyang University, South Korea *(in progress)*
 **MSc, Big Data Engineering** — Soonchunhyang University, South Korea *(2023)*
 **BSc, Computer Engineering & Information Technology** — United African University of Tanzania
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1b4f72,100:0d1b2a&height=120&section=footer" />
