@@ -7,11 +7,39 @@
 <br>
 
 <div align="center">
-  <a href="https://servasadolph.github.io"><img src="https://img.shields.io/badge/Portfolio-servasadolph.github.io-0d1b2a?style=flat-square&logo=githubpages&logoColor=white"></a>&nbsp;
-  <a href="https://linkedin.com/in/servas-adolph-tarimo-66494066"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>&nbsp;
-  <a href="https://scholar.google.com/citations?user=LCd83TUAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-Research-4285F4?style=flat-square&logo=googlescholar&logoColor=white"></a>&nbsp;
-  <a href="https://orcid.org/0009-0008-8415-2787"><img src="https://img.shields.io/badge/ORCID-0009--0008--8415--2787-A6CE39?style=flat-square&logo=orcid&logoColor=white"></a>&nbsp;
-  <a href="mailto:servasadolph@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
+  <p align="center">
+  <a href="https://servasadolph.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-servasadolph.github.io-0d1b2a?style=flat-square&logo=githubpages&logoColor=white">
+  </a>&nbsp;
+
+  <a href="https://linkedin.com/in/servas-adolph-tarimo-66494066">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
+  </a>&nbsp;
+
+  <a href="https://scholar.google.com/citations?user=LCd83TUAAAAJ">
+    <img src="https://img.shields.io/badge/Google%20Scholar-Research-4285F4?style=flat-square&logo=googlescholar&logoColor=white">
+  </a>&nbsp;
+
+  <a href="https://orcid.org/0009-0008-8415-2787">
+    <img src="https://img.shields.io/badge/ORCID-0009--0008--8415--2787-A6CE39?style=flat-square&logo=orcid&logoColor=white">
+  </a>&nbsp;
+
+  <a href="https://twitter.com/servasadolph">
+    <img src="https://img.shields.io/badge/X-Follow-000000?style=flat-square&logo=x&logoColor=white">
+  </a>&nbsp;
+
+  <a href="https://www.instagram.com/servasadolph/">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white">
+  </a>&nbsp;
+
+  <a href="https://www.youtube.com/@servasadolph">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=flat-square&logo=youtube&logoColor=white">
+  </a>&nbsp;
+
+  <a href="mailto:servasadolph@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white">
+  </a>
+</p>
 </div>
 
 <br>
